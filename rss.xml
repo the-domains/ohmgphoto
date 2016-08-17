@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Oh! MG Photo]]></title>
+        <description><![CDATA[Oh! MG Photo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 16:49:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Im not sure what i'm doing. The grid is very different.</p>]]></description>
+            <link>undefinedim-not-sure-what-im-doing-the-grid-is-very-different/index.html</link>
+            <guid isPermaLink="false">4ac8614f-1ff4-4c12-9588-c21fbbc8e67a</guid>
+            <pubDate>Wed, 17 Aug 2016 16:49:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
