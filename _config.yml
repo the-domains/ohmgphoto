@@ -1,7 +1,7 @@
 name: OHMGPHOTO
 favicon: null
-layout_spectrum: 0.71687
-typography_spectrum: 0.70413
+layout_spectrum: 0.98284
+typography_spectrum: 0.07857
 title: Oh! MG Photo
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#000000'
     - '#a2a2a2'
   brandStrength: 1
-  lightness: 0.6875
+  lightness: 0.5625
   saturation: 0.1875
   rhythmicContrast: 1
 purpose: []
