@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Oh! MG Photo]]></title>
         <description><![CDATA[Oh! MG Photo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ohmgphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:49:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 16:52:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ohmgphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/472ba92a-fa4a-412c-be68-1dd5a329eb65.png">]]></description>
+            <link>https://thegrid.ai/ohmgphoto/i-mean-like-i-dont-even-know-what-to-really-say/index.html</link>
+            <guid isPermaLink="false">596769dd-ba7c-4762-bd84-a13aae980f5f</guid>
+            <pubDate>Wed, 17 Aug 2016 16:51:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Im not sure what i'm doing. The grid is very different.</p>]]></description>
-            <link>undefinedim-not-sure-what-im-doing-the-grid-is-very-different/index.html</link>
+            <link>https://thegrid.ai/ohmgphoto/im-not-sure-what-im-doing-the-grid-is-very-different/index.html</link>
             <guid isPermaLink="false">4ac8614f-1ff4-4c12-9588-c21fbbc8e67a</guid>
             <pubDate>Wed, 17 Aug 2016 16:49:47 GMT</pubDate>
         </item>
